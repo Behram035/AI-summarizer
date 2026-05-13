@@ -1,4 +1,4 @@
-# NoteDistill — AI Summarizer
+# AI Summarizer — AI Summarizer
 
 A production-ready full-stack AI summarizer built with **Next.js 15**, **Gemini 1.5 Flash**, **MongoDB**, **Redux Toolkit**, **Tailwind CSS**, and **Framer Motion**.
 

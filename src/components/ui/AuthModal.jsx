@@ -81,7 +81,7 @@ export default function AuthModal() {
               <div className="flex items-center gap-2 mb-1">
                 <RiSparklingFill className="text-jade-400" />
                 <span className="text-xs text-jade-400 font-mono uppercase tracking-widest">
-                  NoteDistill
+                  AI Summarizer
                 </span>
               </div>
               <h2 className="font-display text-2xl text-white">

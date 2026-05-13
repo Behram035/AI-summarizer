@@ -26,7 +26,7 @@ export default function Navbar() {
             <RiSparklingFill className="text-jade-400 text-sm" />
           </div>
           <span className="font-display text-lg text-white tracking-tight">
-            Note<span className="gradient-text">Distill</span>
+            AI<span className="gradient-text">Summarizer</span>
           </span>
         </Link>
 

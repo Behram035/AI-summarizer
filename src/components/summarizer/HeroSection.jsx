@@ -47,9 +47,10 @@ export default function HeroSection() {
       {/* Headline */}
       <motion.div variants={item}>
         <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl text-white leading-tight tracking-tight">
-          Distill any content
+          AI Summarizer - Text, Audio and
           <br />
-          into <span className="gradient-text italic">clear insights</span>
+          Live Voice content into{" "}
+          <span className="gradient-text italic">clear insights</span>
         </h1>
       </motion.div>
 
